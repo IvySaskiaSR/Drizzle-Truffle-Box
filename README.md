@@ -85,3 +85,10 @@ First ensure you are in a new and empty directory.
 
 -----
 npm i on root and npi con cd app
+
+----
+it works deployment of front to:
+
+https://ivysaskiasr.github.io/Drizzle-Truffle-Box/
+
+and works with smart contracts maybe because of live networks.. TO-DO: check
