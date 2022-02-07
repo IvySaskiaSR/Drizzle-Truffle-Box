@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Drizzle-Truffle-Box/static/css/main.54a0cdb6.chunk.css",
+    "main.js": "/Drizzle-Truffle-Box/static/js/main.2b16254a.chunk.js",
+    "main.js.map": "/Drizzle-Truffle-Box/static/js/main.2b16254a.chunk.js.map",
+    "runtime-main.js": "/Drizzle-Truffle-Box/static/js/runtime-main.bf7c0921.js",
+    "runtime-main.js.map": "/Drizzle-Truffle-Box/static/js/runtime-main.bf7c0921.js.map",
+    "static/js/2.073f2e55.chunk.js": "/Drizzle-Truffle-Box/static/js/2.073f2e55.chunk.js",
+    "static/js/2.073f2e55.chunk.js.map": "/Drizzle-Truffle-Box/static/js/2.073f2e55.chunk.js.map",
+    "index.html": "/Drizzle-Truffle-Box/index.html",
+    "precache-manifest.0147f974d2d032f93442a60d25e8c256.js": "/Drizzle-Truffle-Box/precache-manifest.0147f974d2d032f93442a60d25e8c256.js",
+    "service-worker.js": "/Drizzle-Truffle-Box/service-worker.js",
+    "static/css/main.54a0cdb6.chunk.css.map": "/Drizzle-Truffle-Box/static/css/main.54a0cdb6.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf7c0921.js",
+    "static/js/2.073f2e55.chunk.js",
+    "static/css/main.54a0cdb6.chunk.css",
+    "static/js/main.2b16254a.chunk.js"
+  ]
+}
