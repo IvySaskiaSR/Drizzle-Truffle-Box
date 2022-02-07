@@ -80,3 +80,8 @@ First ensure you are in a new and empty directory.
 * __How does the provider work in this box?__
 
    This box uses a custom provider, which does not interact with MetaMask. Keep an eye on this space, as this will be updated once Drizzle can sync up with MetaMask. 
+
+
+
+-----
+npm i on root and npi con cd app
